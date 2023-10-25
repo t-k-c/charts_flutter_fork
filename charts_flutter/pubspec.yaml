@@ -15,7 +15,7 @@ dependencies:
   # The latest pub version is commented out and shown below as an example.
   charts_common:
     git:
-      url: https://github.com/t-k-c/charts_common.git
+      url: https://github.com/t-k-c/charts_flutter.git
       path: charts_common
   # charts_common:
   #   path: ../charts_common/
